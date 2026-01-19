@@ -33,21 +33,21 @@ Todas as respostas apresentadas são baseadas exclusivamente nas fontes carregad
 
 ## Exemplo 3 - Resumo em áudio
 
-**Prompt utilizado:**  
+**Prompt utilizado:**
 "Gere um resumo curto, de no máximo 3 minutos em português brasileiro, explicando os principais conceitos de saúde financeira, incluindo definição, importância e indicadores mais citados na literatura. Mantenha a linguagem clara, objetiva e introdutória."
 
-**Descrição do resultado:**  
-.
+**Descrição do resultado:**
+* [Clique aqui para ouvir o áudio da demonstração](./midia/exemplo_3_audio.mp3.m4a)
 
 ---
 
 ## Exemplo 4 - Resumo em vídeo
 
-**Prompt utilizado:**  
+**Prompt utilizado:**
 "Faça um vídeo curto, no máximo 3 minutos, em português brasileiro para discutir 'como controlar impulsos financeiros e sobrar dinheiro no fim de mês'."
 
-**Descrição do resultado:**  
-.
+**Descrição do resultado:**
+* [Clique aqui para assistir o vídeo da demonstração](./midia/exemplo_4_video.mp4.mp4)
 
 ---
 
