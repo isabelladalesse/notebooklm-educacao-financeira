@@ -59,7 +59,7 @@ Todas as respostas apresentadas são baseadas exclusivamente nas fontes carregad
 "Elabore um teste com perguntas de múltipla escolha sobre fundamentos de saúde financeira e controle de dívidas. As questões devem avaliar tanto compreensão teórica quanto situações práticas individuais."
 
 **Resultado:**  
-.
+![Exemplo de pergunta](./midia/ex3-imagem1.png)
 
 ---
 
