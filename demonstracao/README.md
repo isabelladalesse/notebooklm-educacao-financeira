@@ -16,7 +16,7 @@ Todas as respostas apresentadas são baseadas exclusivamente nas fontes carregad
 **Prompt utilizado:**  
 "Tenho dificuldade de guardar dinheiro. Sempre faço compras no impulso e não sobra nada no fim de mês."
 
-**Descrição do resultado:**  
+**Resultado:**  
 .
 
 ---
@@ -26,7 +26,7 @@ Todas as respostas apresentadas são baseadas exclusivamente nas fontes carregad
 **Prompt utilizado:**  
 "Gostaria que você fizesse um resumo curto, em parágrafos de prosa, sobre como ter bem-estar financeiro."
 
-**Descrição do resultado:**  
+**Resultado:**  
 .
 
 ---
@@ -36,7 +36,7 @@ Todas as respostas apresentadas são baseadas exclusivamente nas fontes carregad
 **Prompt utilizado:**
 "Gere um resumo curto, de no máximo 3 minutos em português brasileiro, explicando os principais conceitos de saúde financeira, incluindo definição, importância e indicadores mais citados na literatura. Mantenha a linguagem clara, objetiva e introdutória."
 
-**Descrição do resultado:**
+**Resultado:**
 * [Clique aqui para ouvir o áudio da demonstração](./midia/exemplo_3_audio.mp3.m4a)
 
 ---
@@ -46,7 +46,7 @@ Todas as respostas apresentadas são baseadas exclusivamente nas fontes carregad
 **Prompt utilizado:**
 "Faça um vídeo curto, no máximo 3 minutos, em português brasileiro para discutir 'como controlar impulsos financeiros e sobrar dinheiro no fim de mês'."
 
-**Descrição do resultado:**
+**Resultado:**
 * [Clique aqui para assistir o vídeo da demonstração](./midia/exemplo_4_video.mp4.mp4)
 
 ---
@@ -56,7 +56,7 @@ Todas as respostas apresentadas são baseadas exclusivamente nas fontes carregad
 **Prompt utilizado:**  
 "Elabore um teste com perguntas de múltipla escolha sobre fundamentos de saúde financeira e controle de dívidas. As questões devem avaliar tanto compreensão teórica quanto situações práticas individuais."
 
-**Descrição do resultado:**  
+**Resultado:**  
 .
 
 ---
