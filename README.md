@@ -44,10 +44,13 @@ As respostas do NotebookLM são geradas **exclusivamente a partir das fontes car
 
 ## Demonstração do Funcionamento
 Exemplos de uso do NotebookLM, incluindo:
-- perguntas testadas
-- tipos de respostas geradas
-- formatos de saída (resumos, relatórios, mapas mentais)
-estão documentados na pasta `/imagens` e nos arquivos de prompts.
+- **Interações Individuais:** Exemplos de prompts focados em dúvidas comportamentais, como compras por impulso.
+- **Resumo:** Explicações textuais estruturadas.
+- **Resumo em Áudio:** Resumo gerado em formato de áudio para consumo rápido.
+- **Vídeo:** Demonstrações visuais de conceitos de saúde financeira.
+- **Avaliações e Testes:** Questionários de múltipla escolha gerados automaticamente para fixação de conteúdo.
+
+Para uma experiência detalhada com capturas de tela, áudios e vídeos, acesse a documentação completa em: **[/demonstracao](./demonstracao)**.
 
 ---
 
