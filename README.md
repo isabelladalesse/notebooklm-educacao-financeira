@@ -1,13 +1,8 @@
 # Conselheiro Financeiro Educacional — NotebookLM
 
-Este projeto utiliza o **NotebookLM** como ferramenta de **Inteligência Artificial Generativa aplicada à educação financeira**.
+Este projeto utiliza o **NotebookLM** como ferramenta de **Inteligência Artificial Generativa aplicada à educação financeira**. O objetivo é organizar, sintetizar e explicar conceitos fundamentais relacionados à saúde financeira, planejamento mensal e decisões financeiras de curto prazo. Todo o conteúdo gerado pelo notebook é **baseado exclusivamente em fontes teóricas**, sem risco de alucinação. O NotebookLM desenvolvido neste projeto pode ser acessado no link abaixo:
 
-O objetivo é organizar, sintetizar e explicar conceitos fundamentais relacionados à:
-- saúde financeira
-- planejamento mensal
-- decisões financeiras de curto prazo
-
-Todo o conteúdo gerado pelo notebook é **baseado exclusivamente em fontes teóricas**, sem risco de alucinação.
+https://notebooklm.google.com/notebook/99323fe0-e41d-4a8e-a428-5d71df2a7880
 
 ---
 
@@ -45,6 +40,23 @@ As respostas do NotebookLM são geradas **exclusivamente a partir das fontes car
 - NotebookLM
 - Inteligência Artificial Generativa
 - Curadoria de fontes
+
+---
+
+## Como testar o Notebook
+- Explore os resumos conceituais
+- Gere mapas mentais
+- Consulte os cartões didáticos
+- Utilize os testes conceituais
+
+---
+
+## Demonstração do Funcionamento
+Exemplos de uso do NotebookLM, incluindo:
+- perguntas testadas
+- tipos de respostas geradas
+- formatos de saída (resumos, relatórios, mapas mentais)
+estão documentados na pasta `/imagens` e nos arquivos de prompts.
 
 ---
 
