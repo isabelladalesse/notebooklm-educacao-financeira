@@ -17,10 +17,8 @@ Todas as respostas apresentadas são baseadas exclusivamente nas fontes carregad
 "Tenho dificuldade de guardar dinheiro. Sempre faço compras no impulso e não sobra nada no fim de mês."
 
 **Resultado:**  
-* [Clique aqui para ouvir o áudio da demonstração](./midia/1ºexemplo/)
-
-Captura de tela 2026-01-19 203322.png
-Captura de tela 2026-01-19 203412.png
+![Tela do Prompt](./mídia/1ºexemplo/imagem1.png)
+![Resultado da Resposta](./mídia/1ºexemplo/imagem2.png)
 
 ---
 
