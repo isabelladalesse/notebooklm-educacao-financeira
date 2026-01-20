@@ -33,6 +33,7 @@ As respostas do NotebookLM são geradas **exclusivamente a partir das fontes car
 - artigos acadêmicos;
 - relatórios institucionais e
 - comandos com contexto para melhor funcionamento da IA.
+Confira as fontes completas em **[/Fontes](./fontes)**
 
 ---
 
